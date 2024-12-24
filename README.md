@@ -35,4 +35,4 @@ Where we have done all the command CREATE,DROP,ALTER,TRUNCATE AND RENAME
 ##
   	RENAME TABLE STUDENT TO CLASSTEN;
 
-:)
+:blush:
